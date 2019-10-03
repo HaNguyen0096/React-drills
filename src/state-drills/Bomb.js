@@ -33,7 +33,7 @@ export default class Bomb extends Component {
 
   render() {
     return (
-      <div className='CountdownBomb'>
+      <div className='Bomb'>
         {this.renderDisplay()}
       </div>
     )
